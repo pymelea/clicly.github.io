@@ -178,6 +178,14 @@
           "type": "technology"
         },
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
