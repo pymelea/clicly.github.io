@@ -17,7 +17,13 @@
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/clicly/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -143,6 +149,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/clicly/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
