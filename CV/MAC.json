@@ -171,12 +171,6 @@
         }
       ]
     },
-    "preferences": {
-      "preferredRoles": [
-        "Backend Developer",
-        "Data Analysis & BI"
-      ]
-    },
     "status": "searchingActively"
   }
 }
