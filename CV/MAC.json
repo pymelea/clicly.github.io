@@ -1,0 +1,114 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Lily",
+      "surnames": "Perera Capetillo",
+      "title": "Software Developer | Back End Developer | Python | Django | Django Rest Framework | HTML | CSS",
+      "description": "Software developer who enjoys learning every day and improving my skills. I like knowledge, solving problems and knowing how things work. +3 years of experience in Python and django in the area of web programming, defender of teamwork and a lot of communication, making sites, applications for clients, consulting external APIs and creating our own, always on databases relational and obtaining customer satisfaction and very good results.",
+      "avatar": {
+        "alt": "",
+        "link": ""
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "VaronaTech "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de aplicaciones web",
+            "startDate": "2021-05-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "Python developer\n Using Framework Web Django"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Islapay "
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2020-07-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "Python / Django and DB with PostgreSQL.\nImplementing data in the system."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ETECSA_Cuba "
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2014-04-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "Statistics and information services in fast response environments.\nComplaints and information service station.\nInformation control system and technological problems."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Unión de jóvenes de Cuba "
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas de red Unix",
+            "startDate": "2013-03-01",
+            "finishDate": "2014-03-31",
+            "challenges": [
+              {
+                "description": "Network and systems administrator in GNU / Linux and its communication systems. \n Workstation administrator. \n Technical work on operating systems, hardware and internet for the end user. \n Implementation of navigation rooms with stations without hard disk."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Unión de jovenes de Cuba"
+        },
+        "roles": [
+          {
+            "name": "Web Designer and Developer - intern",
+            "startDate": "2010-09-01",
+            "finishDate": "2013-03-31",
+            "challenges": [
+              {
+                "description": "Web platform development for the company.\nMaintenance of this platform."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
