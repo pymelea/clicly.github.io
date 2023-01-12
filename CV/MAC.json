@@ -172,6 +172,16 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Data Analysis & BI"
