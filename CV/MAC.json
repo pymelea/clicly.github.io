@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,8 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/24/7d3671a5-b3bd-4b56-a5a6-41357d1b847d_75258467_11933496950.jpg"
       },
       "location": {
-        "country": "Brasil"
+        "country": "Brasil",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -127,6 +128,20 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Portuguese",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -286,6 +301,7 @@
           "type": "technology"
         }
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
