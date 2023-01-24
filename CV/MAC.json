@@ -115,13 +115,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "MySQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Django",
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -133,13 +133,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -151,31 +145,43 @@
       },
       {
         "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
