@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,10 +11,23 @@
       "title": "Software Developer | Back End Developer | Python | Django | Django Rest Framework | HTML | CSS",
       "description": "Software developer who enjoys learning every day and improving my skills. I like knowledge, solving problems and knowing how things work. +3 years of experience in Python and django in the area of web programming, defender of teamwork and a lot of communication, making sites, applications for clients, consulting external APIs and creating our own, always on databases relational and obtaining customer satisfaction and very good results.",
       "location": {
-        "country": "Brasil"
+        "country": "Brasil",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/clicly"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/9134161/clicly"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/CapetillLily"
+      },
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/clicly/"
@@ -181,6 +194,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/clicly/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/9134161/clicly"
         }
       ]
     },
@@ -252,6 +269,7 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
