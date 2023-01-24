@@ -10,10 +10,6 @@
       "surnames": "Perera Capetillo",
       "title": "Software Developer | Back End Developer | Python | Django | Django Rest Framework | HTML | CSS",
       "description": "Software developer who enjoys learning every day and improving my skills. I like knowledge, solving problems and knowing how things work. +3 years of experience in Python and django in the area of web programming, defender of teamwork and a lot of communication, making sites, applications for clients, consulting external APIs and creating our own, always on databases relational and obtaining customer satisfaction and very good results.",
-      "avatar": {
-        "alt": "",
-        "link": ""
-      },
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
@@ -160,7 +156,19 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
           "type": "technology"
         },
         {
@@ -172,13 +180,46 @@
           "type": "technology"
         },
         {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
           "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "REST",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "Windows",
           "type": "technology"
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
-        "Data Analysis & BI"
+        "Backend Developer"
       ]
     },
     "status": "searchingActively"
