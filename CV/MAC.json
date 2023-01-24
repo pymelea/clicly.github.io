@@ -10,6 +10,10 @@
       "surnames": "Perera Capetillo",
       "title": "Software Developer | Back End Developer | Python | Django | Django Rest Framework | HTML | CSS",
       "description": "Software developer who enjoys learning every day and improving my skills. I like knowledge, solving problems and knowing how things work. +3 years of experience in Python and django in the area of web programming, defender of teamwork and a lot of communication, making sites, applications for clients, consulting external APIs and creating our own, always on databases relational and obtaining customer satisfaction and very good results.",
+      "avatar": {
+        "alt": "75258467_119334969501927_8671819161405489152_n.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/24/7d3671a5-b3bd-4b56-a5a6-41357d1b847d_75258467_11933496950.jpg"
+      },
       "location": {
         "country": "Brasil",
         "notes": "Autocompleted using Google Maps API"
